@@ -1,5 +1,5 @@
 name = "cfdingyue"
-main = "index.js"
+main = "天书13纯订阅脚本_worker.js"
 compatibility_date = "2025-04-07"
 
 account_id = "5769086c99be083c06457a3e098d3dba"
